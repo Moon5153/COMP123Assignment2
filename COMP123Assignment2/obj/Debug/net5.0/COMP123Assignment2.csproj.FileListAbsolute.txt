@@ -1,0 +1,17 @@
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.exe
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.deps.json
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.runtimeconfig.json
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.runtimeconfig.dev.json
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.dll
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\ref\COMP123Assignment2.dll
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\COMP123Assignment2.pdb
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.AssemblyInfoInputs.cache
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.AssemblyInfo.cs
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.dll
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\ref\COMP123Assignment2.dll
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.pdb
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\obj\Debug\net5.0\COMP123Assignment2.genruntimeconfig.cache
+C:\Users\Moon\source\repos\COMP123Assignment2\COMP123Assignment2\bin\Debug\net5.0\Assignment_02_TweetFile (1).txt
